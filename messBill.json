@@ -1,0 +1,15 @@
+{
+    "name": "Mess Bill Object",
+    "bill": [
+        {
+            "start": 1650652200000,
+            "end": 1675449000000,
+            "perDayBill": 100
+        },
+        {
+            "start": 1675535400000,
+            "end": 1682879400000,
+            "perDayBill": 120
+        }
+    ]
+}

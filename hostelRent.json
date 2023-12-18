@@ -1,0 +1,29 @@
+{
+    "name": "Hostel Rent Object",
+    "rent": [
+        {
+            "start": 1678681279,
+            "end": 1678681279,
+            "semesterRent": 12500,
+            "perDayRent": 100
+        },
+        {
+            "start": 1678681279,
+            "end": 1678681279,
+            "semesterRent": 12500,
+            "perDayRent": 100
+        },
+        {
+            "start": 1678681279,
+            "end": 1678681279,
+            "semesterRent": 12500,
+            "perDayRent": 100
+        },
+        {
+            "start": 1678681279,
+            "end": 1678681279,
+            "semesterRent": 12500,
+            "perDayRent": 100
+        }
+    ]
+}
